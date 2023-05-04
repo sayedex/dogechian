@@ -1,0 +1,3 @@
+
+export const NFT_CONTRACT = "0x7d857bECa5ED641a2B6F57d85b1660b528Ae5f77"
+export const NFT_PRICE = "0.001"
